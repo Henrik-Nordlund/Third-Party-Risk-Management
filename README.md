@@ -10,6 +10,7 @@ What I Learned – vad projektet faktiskt gav mig.
 Original Exercise – GRC Mastery och transparent kontext.  
 Supporting Documentation – questionnaire + recommendation document.  
 
+## LEGACY TEXT
 Synveta, an midsize R&D intensive company, has asked for a third party riskmanagement review of all of its vendors.
 As a security analyst I am tasked to help among my other duties.
 
