@@ -1,14 +1,14 @@
 # Third-party-risk-management-TPRM-
 
-Overview – vad TPRM-bedömningen var.
-Scenario – SaaS-leverantören och varför den är kritisk.
-Assessment Approach – questionnaire → analys → risker → eskalering.
-Key Findings – de fem high-risk-områdena och DLP som medium.
-Risk Assessment – hur dina findings klassificerades.
-Recommendations – vad resultaten innebär för kundorganisationen.
-What I Learned – vad projektet faktiskt gav dig.
-Original Exercise – GRC Mastery och transparent kontext.
-Supporting Documentation – questionnaire + recommendation document.
+Overview – vad TPRM-bedömningen var.  
+Scenario – SaaS-leverantören och varför den är kritisk.  
+Assessment Approach – questionnaire → analys → risker → eskalering.  
+Key Findings – de fem high-risk-områdena och DLP som medium.  
+Risk Assessment – hur dina findings klassificerades.  
+Recommendations – vad resultaten innebär för kundorganisationen.  
+What I Learned – vad projektet faktiskt gav dig.  
+Original Exercise – GRC Mastery och transparent kontext.  
+Supporting Documentation – questionnaire + recommendation document.  
 
 Synveta, an midsize R&D intensive company, has asked for a third party riskmanagement review of all of its vendors.
 As a security analyst I am tasked to help among my other duties.
