@@ -4,9 +4,9 @@ Overview – vad TPRM-bedömningen var.
 Scenario – SaaS-leverantören och varför den är kritisk.  
 Assessment Approach – questionnaire → analys → risker → eskalering.  
 Key Findings – de fem high-risk-områdena och DLP som medium.  
-Risk Assessment – hur dina findings klassificerades.  
+Risk Assessment – hur mina findings klassificerades.  
 Recommendations – vad resultaten innebär för kundorganisationen.  
-What I Learned – vad projektet faktiskt gav dig.  
+What I Learned – vad projektet faktiskt gav mig.  
 Original Exercise – GRC Mastery och transparent kontext.  
 Supporting Documentation – questionnaire + recommendation document.  
 
