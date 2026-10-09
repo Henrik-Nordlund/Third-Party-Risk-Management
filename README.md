@@ -14,7 +14,7 @@ The review examines the supplier's cybersecurity capabilities, vulnerability man
 
 ## Scenario
 
-Synveta is an midsize R&D intensive company that relies on a SaaS application developed by Zynilo Labs to analyze scientific data. Because the service supports scientific data analysis and may involve sensitive information, the supplier's cybersecurity capabilities are important to Synveta's overall risk exposure.
+Synveta is an midsize R&D intensive company that relies on a SaaS application developed by Zynilo Labs, a start-up, to analyze scientific data. Because the service supports scientific data analysis and may involve sensitive information, the supplier's cybersecurity capabilities are important to Synveta's overall risk exposure.
 
 As part of its third-party risk management process, Synveta has already identified and classified its suppliers into risk tiers. Zynilo Labs is classified as a Tier 1 supplier due to the importance of the service it provides.
 
