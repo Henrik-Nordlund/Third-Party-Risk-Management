@@ -1,5 +1,5 @@
- 
-Original Exercise – GRC Mastery och transparent kontext.  
+
+
 Supporting Documentation – questionnaire + recommendation document.
 
 # Third-Party Risk Management (TPRM)
@@ -96,3 +96,10 @@ I also learned to consider existing safeguards when assessing risk. The presence
 
 Finally, the assessment reinforced the importance of connecting a supplier's security posture to the customer organization's exposure. The objective of a TPRM assessment is not simply to list missing controls, but to help decision-makers understand the implications and determine what action is warranted.
 
+## Original Exercise and Context
+
+This assessment originated as a practical exercise in GRC Mastery. The exercise involved reviewing a completed third-party risk questionnaire for a SaaS provider used by a fictional research organization and identifying significant cybersecurity risks for escalation to senior management.
+
+I completed the assessment by reviewing the questionnaire responses given to me, classifying the identified risks, and preparing recommendations for senior management. The work presented in this portfolio reflects my own analysis and conclusions.
+
+For this portfolio project, the scenario uses the fictional organizations Synveta and Zynilo Labs. The supporting questionnaire has been shortened for privacy purposes, and the assessment and recommendations are documented in the accompanying files.
