@@ -12,8 +12,9 @@ Synveta is an midsize R&D intensive company that relies on a SaaS application de
 
 As part of its third-party risk management process, Synveta has already identified and classified its suppliers into risk tiers. Zynilo Labs is classified as a Tier 1 supplier due to the importance of the service it provides.
 
-The task here is to review Zynilo Labs' responses to a TPRM questionnaire, identify any cybersecurity deficiencies, and determine which risks should be brought to senior management's attention. My assessment focuses on the supplier's security controls and capabilities rather than conducting a technical assessment of the SaaS application itself. A technical assessment of the SaaS application is thus outside the scope of this project. In addition, Synveta has much data in the cloud, utlitizing one of the big vendors from the US for this. That is out-of scope for this assessment.
+The task here is to review Zynilo Labs' responses to a TPRM questionnaire, identify any cybersecurity deficiencies, and determine which risks should be brought to senior management's attention. My assessment focuses on the supplier's security controls and capabilities rather than conducting a technical assessment of the SaaS application itself. A technical assessment of the SaaS application is thus outside the scope of this project. 
 
+Synveta also relies on a separate cloud service provider. The security posture of that provider was outside the scope of this assessment, which focused exclusively on Zynilo Labs. Dependencies on subcontractors and underlying cloud services would need to be examined separately where relevant to the overall risk exposure.
 
 ## Assessment Approach
 
