@@ -8,7 +8,23 @@ Risk Assessment – hur mina findings klassificerades.
 Recommendations – vad resultaten innebär för kundorganisationen.  
 What I Learned – vad projektet faktiskt gav mig.  
 Original Exercise – GRC Mastery och transparent kontext.  
-Supporting Documentation – questionnaire + recommendation document.  
+Supporting Documentation – questionnaire + recommendation document.
+
+# Third-Party Risk Management (TPRM)
+
+## Overview
+
+This project documents a third-party risk assessment of a Software-as-a-Service (SaaS) provider used for scientific data analysis. The assessment is based on a completed TPRM questionnaire and focuses on identifying cybersecurity deficiencies that could expose the customer organization to risk.
+
+The review examines the supplier's cybersecurity capabilities, vulnerability management, detection and monitoring, incident response, identity and access management, and data loss prevention. The findings are assessed for their potential impact on the customer organization and summarized for escalation to senior management.
+
+## Scenario
+
+Synveta is a research-intensive company that relies on a SaaS application developed by Zynilo Labs to analyze scientific data. Because the service supports scientific data analysis and may involve sensitive information, the supplier's cybersecurity capabilities are important to Synveta's overall risk exposure.
+
+As part of its third-party risk management process, Synveta has already identified and classified its suppliers into risk tiers. Zynilo Labs is classified as a Tier 1 supplier due to the importance of the service it provides.
+
+The task is to review Zynilo Labs' responses to a TPRM questionnaire, identify significant cybersecurity deficiencies, and determine which risks should be brought to senior management's attention. The assessment focuses on the supplier's security controls and capabilities rather than conducting a technical assessment of the SaaS application itself.
 
 ## LEGACY TEXT
 Synveta, an midsize R&D intensive company, has asked for a third party riskmanagement review of all of its vendors.
