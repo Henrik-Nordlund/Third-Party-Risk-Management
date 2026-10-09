@@ -1,7 +1,3 @@
-
-
-Supporting Documentation – questionnaire + recommendation document.
-
 # Third-Party Risk Management (TPRM)
 
 ## Overview
