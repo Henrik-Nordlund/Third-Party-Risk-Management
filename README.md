@@ -1,5 +1,3 @@
-# Third-party-risk-management-TPRM-
-
 Assessment Approach – questionnaire → analys → risker → eskalering.  
 Key Findings – de fem high-risk-områdena och DLP som medium.  
 Risk Assessment – hur mina findings klassificerades.  
