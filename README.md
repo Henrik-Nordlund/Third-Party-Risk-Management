@@ -98,7 +98,7 @@ Finally, the assessment reinforced the importance of connecting a supplier's sec
 
 ## Original Exercise and Context
 
-This assessment originated as a practical exercise in GRC Mastery. The exercise involved reviewing a completed third-party risk questionnaire for a SaaS provider used by a fictional research organization and identifying significant cybersecurity risks for escalation to senior management.
+This assessment originated as a practical exercise within GRC Mastery certification. The exercise involved reviewing a completed third-party risk questionnaire for a SaaS provider used by a fictional research organization and identifying significant cybersecurity risks for escalation to senior management.
 
 I completed the assessment by reviewing the questionnaire responses given to me, classifying the identified risks, and preparing recommendations for senior management. The work presented in this portfolio reflects my own analysis and conclusions.
 
