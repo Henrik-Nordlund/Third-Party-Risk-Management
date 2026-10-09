@@ -108,6 +108,9 @@ The project includes two supporting documents:
 
 - **TPRM Questionnaire (Anonymized):** The supplier's completed questionnaire used as the basis for my assessment. Identifying information has been replaced with asterisks, and the comment column has been cleared to separate the supplier's responses from my analysis.
 
-- 
+- [Incident Report (Word)](./Incident-Handling/Incident-Report.docx)
 
 - **Recommendations to Senior Management:** My original Word document presenting my risk findings, assessment of the supplier's cybersecurity deficiencies, and conclusions regarding the risks to the customer organization.
+
+- [Incident Timeline (Excel)](./Incident-Handling/Incident-Timeline.xlsx)
+
