@@ -58,7 +58,7 @@ Zynilo Labs lacks data loss monitoring capabilities. However, data encryption an
 
 ## Risk Assessment
 
-The risk ratings were based on the severity of the identified control deficiencies and their potential impact on Synveta.
+Risk ratings were based on the severity of identified control deficiencies and their potential impact on Synveta. The assessment considered the relevance of existing safeguards and the combined effect of related control weaknesses. The ratings represent my analytical judgment within the scope of this exercise and should not be interpreted as independently validated risk scores.
 
 Five areas were classified as high risk: cybersecurity governance and capabilities, vulnerability management, detection and monitoring, incident response, and identity and access management.
 
