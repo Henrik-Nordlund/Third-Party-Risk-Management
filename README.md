@@ -1,4 +1,3 @@
-Key Findings – de fem high-risk-områdena och DLP som medium.  
 Risk Assessment – hur mina findings klassificerades.  
 Recommendations – vad resultaten innebär för kundorganisationen.  
 What I Learned – vad projektet faktiskt gav mig.  
@@ -29,6 +28,38 @@ I reviewed the completed TPRM questionnaire provided by Zynilo Labs and assessed
 The assessment focused on identifying control deficiencies, evaluating their potential impact on Synveta, and determining which findings warranted escalation to senior management. Individual findings were considered in the context of the supplier's overall security posture, including how weaknesses across different control areas could combine to increase risk.
 
 The results were documented in a risk assessment and a set of recommendations to senior management.
+
+## Key Findings
+
+The assessment identified five high-risk areas and one medium-risk area in Zynilo Labs' cybersecurity controls and capabilities.
+
+### High Risk
+
+**1. Cybersecurity Governance and Capabilities**
+
+Zynilo Labs has no dedicated cybersecurity personnel and does not follow an established cybersecurity framework. This raises concerns about the supplier's ability to establish, maintain, and oversee effective security controls.
+
+**2. Vulnerability Management**
+
+The supplier has no vulnerability management program and has neither completed nor planned penetration testing. This limits its ability to identify and address security weaknesses in a systematic manner.
+
+**3. Detection and Monitoring**
+
+Zynilo Labs lacks the capability to detect and monitor security events, both internally and through a Managed Security Service Provider (MSSP). Potential security incidents may therefore go undetected.
+
+**4. Incident Response**
+
+The supplier lacks the capability to respond effectively to cybersecurity incidents. Without an established incident response capability, its ability to contain incidents and limit their impact is a significant concern.
+
+**5. Identity and Access Management (IAM)**
+
+The supplier lacks several important access controls, including least privilege, role-based access control (RBAC), and periodic access reviews. Although individual deficiencies vary in severity, their combined effect creates a significant weakness in identity and access management. This is assessed as a high risk by me.
+
+### Medium Risk
+
+**6. Data Loss Prevention (DLP)**
+
+Zynilo Labs lacks data loss monitoring capabilities. However, data encryption and backups are in place, providing some protection against data exposure and loss. The overall risk is therefore assessed as medium rather than high.
 
 ## LEGACY TEXT
 Synveta, an midsize R&D intensive company, has asked for a third party riskmanagement review of all of its vendors.
