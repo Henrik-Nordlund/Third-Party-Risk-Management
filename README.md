@@ -1,6 +1,4 @@
-Risk Assessment – hur mina findings klassificerades.  
-Recommendations – vad resultaten innebär för kundorganisationen.  
-What I Learned – vad projektet faktiskt gav mig.  
+ 
 Original Exercise – GRC Mastery och transparent kontext.  
 Supporting Documentation – questionnaire + recommendation document.
 
@@ -60,4 +58,41 @@ The supplier lacks several important access controls, including least privilege,
 **6. Data Loss Prevention (DLP)**
 
 Zynilo Labs lacks data loss monitoring capabilities. However, data encryption and backups are in place, providing some protection against data exposure and loss. The overall risk is therefore assessed as medium rather than high.
+
+## Risk Assessment
+
+The risk ratings were based on the severity of the identified control deficiencies and their potential impact on Synveta.
+
+Five areas were classified as high risk: cybersecurity governance and capabilities, vulnerability management, detection and monitoring, incident response, and identity and access management.
+
+The IAM findings illustrate the importance of assessing controls both individually and collectively. Lack of least privilege, role-based access control, and periodic access reviews were assessed as medium-risk issues individually, while lack of separation of duties was assessed as low risk. However, taken together, these deficiencies represent a significant weakness in access management, and therefore I classified them as high risk overall.
+
+The lack of data loss monitoring was classified as medium risk because encryption and backups were in place. These safeguards reduce some of the potential impact, although they do not eliminate the risks associated with inadequate data loss monitoring.
+
+The overall supplier relationship was assessed as high risk to Synveta because the SaaS application is used for scientific data analysis involving sensitive data, while the supplier has significant weaknesses in its cybersecurity capabilities.
+
+## Recommendations
+
+The findings indicate that Synveta should treat its relationship with Zynilo Labs as a significant third-party risk and escalate the assessment to senior management.
+
+I recommend that Synveta:
+
+- **Address the supplier's cybersecurity capabilities:** Raise the absence of dedicated cybersecurity personnel and an established security framework with Zynilo Labs, and request a credible plan for improving its security practices.
+- **Prioritize vulnerability management:** Seek evidence of a systematic vulnerability management process and appropriate security testing, including penetration testing.
+- **Establish detection and incident response capabilities:** Require clarity on how security events will be detected, investigated, and handled, including whether external security services are needed.
+- **Strengthen identity and access management:** Prioritize least privilege, role-based access control, periodic access reviews, and appropriate separation of duties.
+- **Review data protection measures:** Address the lack of data loss monitoring and determine whether the existing encryption and backup measures provide sufficient protection for the data handled by the service.
+- **Review the supplier relationship:** Assess whether the current level of risk is acceptable, taking into account the sensitivity of the data, the supplier's contractual security obligations, and its ability to address the identified deficiencies.
+
+These recommendations are intended to support management decisions about risk treatment, supplier follow-up, and the conditions under which the relationship should continue.
+
+## What I Learned
+
+This project gave me practical experience in reviewing a third-party security questionnaire, identifying control deficiencies, and translating technical and organizational weaknesses into business risks.
+
+One important lesson was that individual control deficiencies cannot always be assessed in isolation. In the IAM assessment, several medium- and low-risk findings combined to create a high-risk issue.
+
+I also learned to consider existing safeguards when assessing risk. The presence of encryption and backups affected the DLP risk rating, even though data loss monitoring was absent.
+
+Finally, the assessment reinforced the importance of connecting a supplier's security posture to the customer organization's exposure. The objective of a TPRM assessment is not simply to list missing controls, but to help decision-makers understand the implications and determine what action is warranted.
 
