@@ -62,7 +62,13 @@ The risk ratings were based on the severity of the identified control deficienci
 
 Five areas were classified as high risk: cybersecurity governance and capabilities, vulnerability management, detection and monitoring, incident response, and identity and access management.
 
-The IAM findings illustrate the importance of assessing controls both individually and collectively. Lack of least privilege, role-based access control, and periodic access reviews were assessed as medium-risk issues individually, while lack of separation of duties was assessed as low risk. However, taken together, these deficiencies represent a significant weakness in access management, and therefore I classified them as high risk overall.
+The IAM findings illustrate the importance of assessing controls both individually and collectively. 
+- Lack of least privilege leads to bigger consequences of compromised accounts.
+- Lack of role-based access control makes it harder to control user privileges.
+- Lack of periodic access reviews enables inappropriate access rights to remain in the system.
+- Lack of separation of duties enables conflation of access rights, permissions and responsibilities.
+
+The overall risk these deficiencies represent a significant weakness in access management when taken together, and therefore I classified them as high risk overall.
 
 The lack of data loss monitoring was classified as medium risk because encryption and backups were in place. These safeguards reduce some of the potential impact, although they do not eliminate the risks associated with inadequate data loss monitoring.
 
