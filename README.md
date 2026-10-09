@@ -1,4 +1,3 @@
-Assessment Approach – questionnaire → analys → risker → eskalering.  
 Key Findings – de fem high-risk-områdena och DLP som medium.  
 Risk Assessment – hur mina findings klassificerades.  
 Recommendations – vad resultaten innebär för kundorganisationen.  
@@ -10,7 +9,7 @@ Supporting Documentation – questionnaire + recommendation document.
 
 ## Overview
 
-This project documents a third-party risk assessment of a Software-as-a-Service (SaaS) provider offering an application for scientific data analysis. The assessment is based on a completed TPRM questionnaire and focuses on identifying cybersecurity deficiencies that could expose the customer organization to risk.
+This project documents a third-party risk assessment of a Software-as-a-Service (SaaS) provider offering an application for scientific data analysis. The assessment is based on a completed TPRM questionnaire and focuses on identifying cybersecurity deficiencies that could expose "my" organization to risk.
 
 The review examines the supplier's cybersecurity capabilities, vulnerability management, detection and monitoring, incident response, identity and access management, and data loss prevention. The findings are assessed for their potential impact on the customer organization and summarized for escalation to senior management.
 
@@ -21,6 +20,15 @@ Synveta is a research-intensive company that relies on a SaaS application develo
 As part of its third-party risk management process, Synveta has already identified and classified its suppliers into risk tiers. Zynilo Labs is classified as a Tier 1 supplier due to the importance of the service it provides.
 
 The task here is to review Zynilo Labs' responses to a TPRM questionnaire, identify any cybersecurity deficiencies, and determine which risks should be brought to senior management's attention. In addition, my assessment focuses on the supplier's security controls and capabilities rather than conducting a technical assessment of the SaaS application itself. A technical assessment of the SaaS application is thus outside the scope of this project.
+
+
+## Assessment Approach
+
+I reviewed the completed TPRM questionnaire provided by Zynilo Labs and assessed the supplier's cybersecurity controls and capabilities.
+
+The assessment focused on identifying control deficiencies, evaluating their potential impact on Synveta, and determining which findings warranted escalation to senior management. Individual findings were considered in the context of the supplier's overall security posture, including how weaknesses across different control areas could combine to increase risk.
+
+The results were documented in a risk assessment and a set of recommendations to senior management.
 
 ## LEGACY TEXT
 Synveta, an midsize R&D intensive company, has asked for a third party riskmanagement review of all of its vendors.
