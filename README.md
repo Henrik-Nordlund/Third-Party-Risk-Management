@@ -8,7 +8,7 @@ Supporting Documentation – questionnaire + recommendation document.
 
 ## Overview
 
-This project documents a third-party risk assessment of a Software-as-a-Service (SaaS) provider offering an application for scientific data analysis. The assessment is based on a completed TPRM questionnaire and focuses on identifying cybersecurity deficiencies that could expose "my" organization to risk.
+This project documents a third-party risk assessment of a Software-as-a-Service (SaaS) provider offering an application for scientific data analysis. The assessment is based on a completed TPRM questionnaire and focuses on identifying cybersecurity deficiencies that could expose "my" organization to risk. The controls in that questionnaire are taken from the NIST Framework.
 
 The review examines the supplier's cybersecurity capabilities, vulnerability management, detection and monitoring, incident response, identity and access management, and data loss prevention. The findings are assessed for their potential impact on the customer organization and summarized for escalation to senior management.
 
