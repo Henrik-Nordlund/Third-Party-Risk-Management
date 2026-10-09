@@ -112,5 +112,5 @@ View the TPRM Questionnaire: [TPRM Questionnaire (Anonymized)](https://github.co
 
 - **Recommendations to Senior Management:** My original Word document presenting my risk findings, assessment of the supplier's cybersecurity deficiencies, and conclusions regarding the risks to the customer organization.
 
-View my recommendation draft: [Recommendations to senior management regarding Zynilo Labs]([./Recommendations to senior management regarding Zynilo Labs.docx](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management/blob/main/Recommendations%20to%20senior%20management%20regarding%20Zynilo%20Labs.docx))
+View my recommendation draft: [Recommendations to senior management regarding Zynilo Labs](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management/blob/main/Recommendations%20to%20senior%20management%20regarding%20Zynilo%20Labs.docx)
 
