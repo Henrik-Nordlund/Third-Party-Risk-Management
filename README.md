@@ -18,7 +18,7 @@ Synveta is an midsize R&D intensive company that relies on a SaaS application de
 
 As part of its third-party risk management process, Synveta has already identified and classified its suppliers into risk tiers. Zynilo Labs is classified as a Tier 1 supplier due to the importance of the service it provides.
 
-The task here is to review Zynilo Labs' responses to a TPRM questionnaire, identify any cybersecurity deficiencies, and determine which risks should be brought to senior management's attention. In addition, my assessment focuses on the supplier's security controls and capabilities rather than conducting a technical assessment of the SaaS application itself. A technical assessment of the SaaS application is thus outside the scope of this project.
+The task here is to review Zynilo Labs' responses to a TPRM questionnaire, identify any cybersecurity deficiencies, and determine which risks should be brought to senior management's attention. My assessment focuses on the supplier's security controls and capabilities rather than conducting a technical assessment of the SaaS application itself. A technical assessment of the SaaS application is thus outside the scope of this project. In addition, Synveta has much data in the cloud, utlitizing one of the big vendors from the US for this. That is out-of scope for this assessment.
 
 
 ## Assessment Approach
@@ -68,8 +68,7 @@ As a security analyst I am tasked to help among my other duties.
 A lot of the TPRM process has already been done. 
 There has already been a supplier discovery process performed, and a list of suppliers are now available.
 Those suppliers have been properly classified in tier 1, tier 2 and tier 3. 
-As other companies Synveta has much data in the cloud, utlitizing one of the big vendors from the US for this.
-For this scope of this project however, those are out-of-scope.
+
 
 My task is to take a closer look at one particular vendor, Zynilo Labs, that has built a SaaS application that Synveta uses.
 Synveta uses this application for data analysis of scientific data, so this is definitely a tier 1 vendor.
