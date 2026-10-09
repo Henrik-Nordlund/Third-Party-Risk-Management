@@ -70,7 +70,7 @@ The IAM findings illustrate the importance of assessing controls both individual
 - Lack of periodic access reviews enables inappropriate access rights to remain in the system.
 - Lack of separation of duties enables conflation of access rights, permissions and responsibilities.
 
-The overall risk these deficiencies represent a significant weakness in access management when taken together, and therefore I classified them as high risk overall.
+The overall risk is that these deficiencies represent a significant weakness in access management when taken together, and therefore I classified them as high risk overall.
 
 The lack of data loss monitoring was classified as medium risk because encryption and backups were in place. These safeguards reduce some of the potential impact, although they do not eliminate the risks associated with inadequate data loss monitoring.
 
