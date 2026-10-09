@@ -96,6 +96,8 @@ I also learned to consider existing safeguards when assessing risk. The presence
 
 Finally, the assessment reinforced the importance of connecting a supplier's security posture to the customer organization's exposure. The objective of a TPRM assessment is not simply to list missing controls, but to help decision-makers understand the implications and determine what action is warranted.
 
+Interesting and empowering exercise, in my opinion.
+
 ## Original Exercise and Context
 
 This assessment originated as a practical exercise within GRC Mastery certification. The exercise involved reviewing a completed third-party risk questionnaire for a SaaS provider used by a fictional research organization and identifying significant cybersecurity risks for escalation to senior management.
