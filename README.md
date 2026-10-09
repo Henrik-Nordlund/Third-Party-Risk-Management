@@ -101,3 +101,13 @@ This assessment originated as a practical exercise within GRC Mastery certificat
 I completed the assessment by reviewing the questionnaire responses given to me, classifying the identified risks, and preparing recommendations for senior management. The work presented in this portfolio reflects my own analysis and conclusions.
 
 For this portfolio project, the scenario uses the fictional organizations Synveta and Zynilo Labs. The supporting questionnaire has been shortened for privacy purposes, and the assessment and recommendations are documented in the accompanying files.
+
+## Supporting Documentation
+
+The project includes two supporting documents:
+
+- **TPRM Questionnaire (Anonymized):** The supplier's completed questionnaire used as the basis for my assessment. Identifying information has been replaced with asterisks, and the comment column has been cleared to separate the supplier's responses from my analysis.
+
+- 
+
+- **Recommendations to Senior Management:** My original Word document presenting my risk findings, assessment of the supplier's cybersecurity deficiencies, and conclusions regarding the risks to the customer organization.
