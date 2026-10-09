@@ -54,7 +54,9 @@ The supplier lacks several important access controls, including least privilege,
 
 **6. Data Loss Prevention (DLP)**
 
-Zynilo Labs lacks data loss monitoring capabilities. However, data encryption and backups are in place, providing some protection against data exposure and loss. The overall risk is therefore assessed as medium rather than high.
+Zynilo Labs lacks data loss monitoring capabilities. For a mid-sized company such as Zynilo Labs, implementing and maintaining effective monitoring may be challenging due to the volume of alerts generated and the limited resources available to investigate and respond to them. It could lead to alert fatigue. Data encryption and backups are in place however, providing some protection against data exposure and loss.
+
+The overall risk is therefore assessed as medium rather than high, taking into account the existing safeguards and the supplier's operational constraints. However, encryption and backups do not replace data loss monitoring, and the residual risk of undetected data exfiltration remains.
 
 ## Risk Assessment
 
